@@ -2,4 +2,8 @@
 int main()
 {
     printf("\n test");
+    printf("\n test");
+    printf("\n test");
+    printf("\n test");
+    printf("\n test");
 }
